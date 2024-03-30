@@ -1,0 +1,30 @@
+body{
+    background-color:  RGB(173, 216, 230);
+}
+#my{
+    color: rgb(184, 34, 20);
+}
+.Text{
+    font-family:'Times New Roman', Times, serif;
+    font-size: large;
+    }
+    .Par{
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: larger;
+    }
+#hobbies{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+    text-align: center;
+}
+.par{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+    color: rgb(184, 34, 20) ;
+}
+li>h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    color: rgb(120, 44, 145);
+    
+}
